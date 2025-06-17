@@ -1,1 +1,4 @@
-{ "status": "enabled", "message": "" }
+{
+  "status": "disabled",
+  "message": "تم ايقاف الاداة تواصل معي افعل لك الوضع المدفوع @SAHR_PY"
+}
